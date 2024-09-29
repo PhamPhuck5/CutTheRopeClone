@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 903acda468800174d81f8fab8f7ccad0, type: 3}
+  m_Name: CandySkin 2
+  m_EditorClassIdentifier: 
+  _Image: {fileID: -2452836725473419909, guid: 7ad7369a1bf94d847ad48084eea05222, type: 3}
+  _Price: 100
